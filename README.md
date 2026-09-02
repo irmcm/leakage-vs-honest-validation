@@ -1,5 +1,3 @@
-# leakage-vs-honest-validation
-
 # Leakage vs honest validation
 
 A short study on what happens to a regression score when the data is split
